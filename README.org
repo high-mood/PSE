@@ -1,0 +1,12 @@
+* PSE Spotify mood tracker
+
+** Spotify API
+   Heeft mogelijkheid om laatste 50 tracks te weergeven.
+   Track wordt toegevoegd aan de laatste 50 tracks na 30s luisteren
+   Dus 50*30 = 25min minstens om weer 50 nieuwe tracks te analyseren.
+   
+
+** Web applicatie
+   User logt in met spotify account, dan begint het tracken.
+   User kan zien wat de moods zijn van de muziek die ze geluisterd hebben,
+   bepaalde 'mood-patterns' 
