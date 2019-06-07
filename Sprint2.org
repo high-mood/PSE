@@ -1,0 +1,32 @@
+* Sprint planning for week 2  
+
+** Everyone
+   Daily standups / What did you do, what will you do.
+   
+   Presence rules: 
+   Mon-Fri 10:00 - 16:00~
+   Can't make it? Let everyone know why the day before.
+   Barry has some more freedom on tuesday/thursday because of travel time.
+   
+** Front-End 
+**** Meet with back-end in order to tie front and back-end together.
+*** Continue with front-end design
+*** d3js for pretty graphs? Other packages to do this?
+** Back-End
+*** Mood-analysis team
+**** Meet with database team to talk about the data to be received
+**** Finish working on the test-set for a machine learning algorithm
+**** Get a ML-algorithm working, (Choose the best possible option)
+*** Song-suggestions team
+**** Meet with mood-analysis team about form of data
+**** Meet with database team
+**** Distinction between podcasts songs?
+*** Database team
+**** Meet with everyone mentioned above
+**** Work with Stan
+**** Get all queries working which are needed
+
+** Other (Mo?)
+   Build central API which can do all seperate API calls(?)
+
+   Fix dev server (24/7 online?), clean up
