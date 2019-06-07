@@ -3,6 +3,8 @@
 ** Everyone
    Daily standups / What did you do, what will you do.
    
+   Everyone log their daily progress!!
+
    Presence rules: 
    Mon-Fri 10:00 - 16:00~
    Can't make it? Let everyone know why the day before.
