@@ -2,16 +2,38 @@
 
 ** As a user I want to be able to log in order to gain access to the web service
 
+   check
+
 ** As a user I want my data to be up to date when I log in so that I can see statistics on my most recently played tracks
+
+   check
 
 ** As a user I want be able to choose how much access the app has to my data in order to ensure my privacy
 
+   Under review
+
 ** As a user I want to be able to view my play history to evaluate my spotify usage
+
+   WIP
 
 ** As a user I want to be able to view meaningful statistics on my play history in order to gain insights on my listening habits
 
+   WIP
+
+   - Add time frames
+
 ** As a user I want to have an intuitive environment in which to review my data to get a quick overview
+
+   - WIP
 
 ** As a user I want to see the mood over time of the music I listen to in order to gain insights on my mood patterns
 
+   - WIP
+
 ** As a user I want to get song recommendations based on different moods in order to steer the mood of my music
+
+   check
+
+** As a user I want to have a flexible application so that I can use it on multiple decives
+
+   WIP
