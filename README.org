@@ -1,32 +1,18 @@
-* PSE Spotify mood tracker
+# High-Mood: Spotify mood analysis
 
-** Spotify API
-   Heeft mogelijkheid om laatste 50 tracks te weergeven.
-   Track wordt toegevoegd aan de laatste 50 tracks na 30s luisteren
-   Dus 50*30 = 25min minstens om weer 50 nieuwe tracks te analyseren.
-   
+This applicatation is used to analyze an individual's music listening patterns. By using listenig data obtained from Spotify's APIs, a profile is made of the user after which various techniques are applied to extract meaningful statistics. Using the analyzed data, further recommendations can be made to the user that extend beyond Spotify's current capabilities: The user is able to filter out specific types of suggestions based upon parameters such as general mood, excitedness and more.
 
-** Web applicatie
-   User logt in met spotify account, dan begint het tracken.
-   User kan zien wat de moods zijn van de muziek die ze geluisterd hebben,
-   bepaalde 'mood-patterns' 
+This application was developed for the final 2nd year course "Project Software Engineering" at the University of Amsterdam (2019). This repository solely contains the documents that assisted us in our development efforts. For full code, see the high-mood organization's repositories. 
 
-** Minimal viable product
+## Example features/Screenshots
 
-*** Data scrape van Spotify
-    Voor elke user periodically de laatste 50 tracks aanvragen om zo een 
-    grotere data sample te krijgen.
+## Features
 
-*** Interpretatie van data met Spotify API
-    Spotify API geeft informatie als:
-    energy, liveness, loudness, tempo, acousticness, danceability
 
-    We moeten een interpretatie hiervan bedenken die in een 'emotie' kan
-    worden samengevat. 
-    
-    Voor song-recommendations mogelijk eerst aanraden op basis van eerder
-    geluisterde nummers. Later vanuit de hele Spotify library.
+## Installation
 
-*** Interface om data te weergeven
-    Eerst alle (relevante) data in simpele graphs weergeven, later kunnen
-    we de data mooier maken. 
+## FAQ
+
+## Further development
+
+# License
