@@ -6,16 +6,26 @@ This application was developed for the final 2nd year course "Project Software E
 
 ## Example features/Screenshots
 
-![alt text](1 "Logo Title Text 1")
-![alt text](2 "Logo Title Text 1")
+![alt text](1.png "Logo Title Text 1")
+![alt text](2.png "Logo Title Text 1")
 
 ## Features
-
+- Display happiness/excitedness of a user's song.
+- Display song history
+- Provide song predictions
+- Customized song predictions based upon selected mood
+- More analytics!
 
 ## Installation
+See wiki
 
-## FAQ
+
 
 ## Further development
+- Optimize algorithm
+- Better data aggregation leads to better result. Thus more training data is required
+- Automatic Spotify playlist creation
 
 # License
+GNU GPLv3
+ 
