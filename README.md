@@ -28,8 +28,7 @@ See wiki
 
 ## References
 The initial machine learning model was trained using data from the paper
-[_Studying emotion induced by music through a crowdsourcing game. Information Processing & Management_ (
-(A. Aljanaki, F. Wiering, R. C. Veltkamp. , 2015.)](http://www2.projects.science.uu.nl/memotion/emotifydata/)
+[_Studying emotion induced by music through a crowdsourcing game. Information Processing & Management_ (A. Aljanaki, F. Wiering, R. C. Veltkamp. , 2015.)](http://www2.projects.science.uu.nl/memotion/emotifydata/)
 
 # License
 GNU GPLv3
