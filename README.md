@@ -6,6 +6,9 @@ This application was developed for the final 2nd year course "Project Software E
 
 ## Example features/Screenshots
 
+![alt text](1 "Logo Title Text 1")
+![alt text](2 "Logo Title Text 1")
+
 ## Features
 
 
