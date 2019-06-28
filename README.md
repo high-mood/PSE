@@ -8,8 +8,8 @@ This application was developed for the final 2nd year course "Project Software E
 
 ## Example features/Screenshots
 
-![alt text](1.png "Logo Title Text 1")
-![alt text](2.png "Logo Title Text 1")
+![alt text](img/1.png "Logo Title Text 1")
+![alt text](img/2.png "Logo Title Text 1")
 
 ## Features
 - Display happiness/excitedness of a user's song.
