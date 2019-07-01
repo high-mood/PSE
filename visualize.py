@@ -405,7 +405,7 @@ aut = {'M Diallo': ['.gitignore', 'sql_login.sh', 'start_influx.sh', '.gitignore
                               'multiple_songs.py', 'presets.py', 'test_API_calls.py', 'models.py', 'views.py','style.css', 'heatmapData.js', 'linechart.js', 'loadRadar.js', 'index.html', 'views.py',
                      'pull_request_template.md', '.pep8speaks.yml', '.travis.yml', 'nohup.out', 'README.md',
                      'launch.json', 'settings.json'],
-                    "server":["none"]
+
        }
 
 
@@ -413,7 +413,7 @@ overlap_dict = defaultdict(dict)
 
 keys = list(aut.keys())
 for x in range(len(keys)):
-    for y in range(x,len(keys)):
+    for y in range(len(keys)):
         if x != y:
             contributor_commits_1 = aut[keys[x]]
             contributor_commits_2 = aut[keys[y]]
